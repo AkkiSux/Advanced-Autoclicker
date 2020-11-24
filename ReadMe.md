@@ -14,7 +14,8 @@
 - Bind to window only
 - Fully Keybinded & Advanced Self Destruct
 
-
+**GUI:**
+![GUI](https://akki.vip/assets/css/images/autoclicker.png)
 
 **DISCLAIMER:**
 Akki Industries takes absolutely no responsibility for what you do with this Autoclicker. Copyrighted 2020
