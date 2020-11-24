@@ -1,4 +1,4 @@
-<centre>
+
 ![Header](https://akki.vip/assets/css/images/header.png)
-<centre>
+<br>
 **Public Edition v1.23**
