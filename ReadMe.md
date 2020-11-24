@@ -19,3 +19,8 @@
 
 **DISCLAIMER:**
 Akki Industries takes absolutely no responsibility for what you do with this Autoclicker. Copyrighted 2020
+
+```diff
++ Strings & Build is not included to help evade screenshare detection
+- AFTER RECENT EVENTS & ABUSE I WILL BE REMOVING THIS CODE, WE ARE SORRY FOR THE INCONVIENCE
+```
