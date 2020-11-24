@@ -16,4 +16,4 @@
 
 
 **DISCLAIMER:**
-Akki Industries takes absolutely no responsibility for what you do with this Autoclicker.
+Akki Industries takes absolutely no responsibility for what you do with this Autoclicker. Copyrighted 2020
