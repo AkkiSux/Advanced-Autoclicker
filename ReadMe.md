@@ -2,6 +2,7 @@
 ![Header](https://akki.vip/assets/css/images/header.png)
 <br>
 <i>An Advanced C++ Undetectable Autoclicker For The Public</i>
+<b>BYPASSED MINEMEN.CLUB WITH 17CPS</b>
 
 **FEATURES:**
 - Humanized Left & Right Autoclicker
