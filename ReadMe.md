@@ -1,3 +1,3 @@
 ![Header](https://akki.vip/assets/css/images/header.png)
-<br>
+<centre>
 **Public Edition v1.23**
