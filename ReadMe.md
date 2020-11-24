@@ -4,12 +4,14 @@
 <i>An Advanced Undetectable Autoclicker For The Public</i>
 
 **FEATURES:**
-- Left & Right Autoclicker
+- Humanized Left & Right Autoclicker
 - Double Clicker
+- Break Blocks
+- Whitelisted Slots (Weapons Only)
 - BlockHit & Jitter Module
 - AutoPotion, AutoRod & AutoPearl
 - Refill Mechanism
-- wTap & sTap
+- wTap & sTap & ToggleSprint
 - ClickSounds, Hide Window, OBS Proof
 - Bind to window only
 - Fully Keybinded & Advanced Self Destruct
