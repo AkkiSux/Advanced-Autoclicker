@@ -1,4 +1,4 @@
 
 ![Header](https://akki.vip/assets/css/images/header.png)
 <br>
-**Public Edition v1.23**
+<i>An Advanced Undetectable Autoclicker For The Public</i>
