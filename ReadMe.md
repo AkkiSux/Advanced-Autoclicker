@@ -11,4 +11,4 @@
 - Refill
 - wTap & sTap
 - ClickSounds, Hide Window, OBS Proof
-- Fully Keybinded
+- Fully Keybinded & Advanced Self Destruct
