@@ -8,9 +8,10 @@
 - Double Clicker
 - BlockHit & Jitter Module
 - AutoPotion, AutoRod & AutoPearl
-- Refill
+- Refill Mechanism
 - wTap & sTap
 - ClickSounds, Hide Window, OBS Proof
+- Bind to window only
 - Fully Keybinded & Advanced Self Destruct
 
 
