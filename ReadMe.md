@@ -22,5 +22,5 @@ Akki Industries takes absolutely no responsibility for what you do with this Aut
 
 ```diff
 + Strings & Build is not included to help evade screenshare detection
-- AFTER RECENT EVENTS & ABUSE I WILL BE REMOVING THIS CODE, WE ARE SORRY FOR THE INCONVIENCE
+- AFTER RECENT EVENTS & ABUSE I WILL BE REMOVING THE CODE FROM PUBLIC ACCESS
 ```
