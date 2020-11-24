@@ -1,7 +1,7 @@
 
 ![Header](https://akki.vip/assets/css/images/header.png)
 <br>
-<i>An Advanced Undetectable Autoclicker For The Public</i>
+<i>An Advanced C++ Undetectable Autoclicker For The Public</i>
 
 **FEATURES:**
 - Humanized Left & Right Autoclicker
@@ -11,10 +11,12 @@
 - BlockHit & Jitter Module
 - AutoPotion, AutoRod & AutoPearl
 - Refill Mechanism
-- wTap & sTap & ToggleSprint
+- wTap, sTap & ToggleSprint
 - ClickSounds, Hide Window, OBS Proof
-- Bind to window only
+- Bind to window only (MC ONLY)
+- Inventory Check
 - Fully Keybinded & Advanced Self Destruct
+- WEB GUI COMING SOON!
 
 **GUI:**
 ![GUI](https://akki.vip/assets/css/images/autoclicker.png)
