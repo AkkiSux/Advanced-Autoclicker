@@ -17,6 +17,7 @@
 - Bind to window only (MC ONLY)
 - Inventory Check
 - Fully Keybinded & Advanced Self Destruct
+- Premade Configurations & Ability to save settings
 - WEB GUI COMING SOON!
 
 **GUI:**
