@@ -18,6 +18,7 @@
 - Inventory Check
 - Fully Keybinded & Advanced Self Destruct
 - Premade Configurations & Ability to save settings
+- Multiple Language Support
 - WEB GUI COMING SOON!
 
 **GUI:**
